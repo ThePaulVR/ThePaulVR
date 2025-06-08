@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ThePaulVR
-- 🌱 I’m currently learning C#
-- 😄 Pronouns: Paul Paulino
+- 🌱 I’m currently learning 
 
 
 <!---
