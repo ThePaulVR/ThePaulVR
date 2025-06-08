@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThePaulVR
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning C#
 
 
 <!---
